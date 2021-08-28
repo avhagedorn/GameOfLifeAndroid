@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Life</string>
+
+    <string name="game_stats">Generation: %1$d | Living Cells: %2$d</string>
+
+</resources>
